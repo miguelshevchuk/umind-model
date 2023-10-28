@@ -1,0 +1,9 @@
+train: train/images  # 118287 images
+val: valid/images  # 5000 images
+
+# number of classes
+nc: 10
+
+# class names
+names: [ 'cabeza', 'oreja', 'ojos', 'nariz', 'feliz', 'pierna', 'pie', 'torso', 'mano', 'brazo']
+#names: [ 'brazoi', 'brazod', 'piernai', 'piernad', 'persona', 'cabeza', 'torso', 'mano', 'pie', 'oreja', 'ojos', 'nariz', 'feliz', 'triste' ]
